@@ -1,0 +1,24 @@
+Ejercicio HTML Server Python module vs Apache Server
+
+Python module advantages:
+Fast.
+Simple to setup.
+Abstract (blackbox).
+Less maintenance.
+
+Python module disadvantages:
+Fragile(not resilient).
+Weak(for lite web services only, scarse resources available)
+Less safe (Black box).
+
+Apache Server advantages:
+Robust/Resilient.
+Resourceful (better services capability).
+Modularized/Intuituve/Easy to understand.
+More safe.
+
+Apache Server disadvantages:
+Long steps to setup.
+More files to mantain.
+Firewall rules intervene.
+More maintenance.
